@@ -1,0 +1,113 @@
+.main{
+    height: 800px;
+    width: 800px;
+    background-color:white  ;
+    border: solid white;
+    position: relative;
+    left: 200px;
+}
+.a{
+    height: 400px;
+    width: 800px;
+    background-color: beige;
+    border: solid beige;
+}
+.a1{
+    height: 25px;
+    width: 150px;
+    border: solid blue ;
+    background-color: blue;
+    color: white;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px ;
+    border-bottom-left-radius: 30px;
+}
+.b{
+    height: 200px;
+    width: 800px;
+    background-color: gray;
+    border: solid gray;
+}
+.b1{
+    height: 200px;
+    width: 250px;
+    background-color: white;
+    border: solid white;
+    position: relative;
+    bottom: 100px;
+    left: 130px;
+    float: left;
+}
+.b11{
+    height: 50px;
+    width: 50px;
+    border: none;
+    border-radius: 50px;
+    position: relative;
+    left: 10px;
+    top: 30px;
+}
+.b2{
+    height: 200px;
+    width: 250px;
+    background-color: white;
+    border: solid white;
+    position: relative;
+    bottom: 150px;
+    left: 150px;
+    float: left;
+}
+.b21{
+    height: 50px;
+    width: 50px;
+    border: none;
+    border-radius: 50px;
+    position: relative;
+    left: 10px;
+    top: 30px;
+}
+.c{
+    height: 200px;
+    width: 800px;
+    background-color: beige;
+    border: solid beige;
+}
+.c1{
+    height: 200px;
+    width: 250px;
+    background-color: white;
+    border: solid white;
+    position: relative;
+    bottom: 50px;
+    left: 130px;
+    float: left;
+}
+.c11{
+    height: 50px;
+    width: 50px;
+    border: none;
+    border-radius: 50px;
+    position: relative;
+    left: 10px;
+    top: 30px;
+}
+.c2{
+    height: 200px;
+    width: 250px;
+    background-color: white;
+    border: solid white;
+    position: relative;
+    bottom: 100px;
+    left: 150px;
+    float: left;
+}
+.c21{
+    height: 50px;
+    width: 50px;
+    border:none;
+    border-radius: 50px;
+    position: relative;
+    left: 10px;
+    top: 30px;
+}

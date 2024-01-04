@@ -1,0 +1,121 @@
+.border{
+    height:350px;
+    width:200px;
+    border:1px solid black;
+}
+h4{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:2px;
+}
+p{
+    margin:20%;
+}
+.innerborder{
+    height:300px;
+    width:150px;
+    border:2px solid lightgrey;
+    margin: 18px;
+}
+.indiv{
+    height:95px;
+    width:100px;
+    border:2px solid blue;
+    background-color: deepskyblue;
+}
+.stadiv{
+    height:95px;
+    width:100px;
+    border:2px solid green;
+    background-color: lawngreen;
+    position:static
+}
+.reldiv{
+    height:95px;
+    width:100px;
+    border:2px solid green;
+    background-color: lawngreen;
+    position: relative;
+    top:20px;
+    left:15px;
+}
+.abdiv{
+    height:95px;
+    width:100px;
+    border:2px solid green;
+    background-color: lawngreen;
+    position: absolute;
+    top:150px;
+    left:533px;
+}
+.fixdiv{
+    height:95px;
+    width:100px;
+    border:2px solid green;
+    background-color: lawngreen;
+    position:fixed;
+    top:0px;
+    right:0px;
+}
+.downborder{
+    height:200px;
+    width:200px;
+    border:1px solid black
+}
+.din{
+    height:150px;
+    width:150px;
+    border:2px solid lightgrey;
+    margin:20px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.stydivt{
+    height:95px;
+    width:100px;
+    border:2px solid green;
+    background-color: lawngreen;
+    position:sticky;
+    top:0px;
+}
+.stydivb{
+    height:95px;
+    width:100px;
+    border:2px solid green;
+    background-color: lawngreen;
+    position:sticky;
+    bottom:0px;
+}
+.dout{
+    height:150px;
+    width:150px;
+    border:2px solid lightgrey;
+    margin:20px;
+    scrollbar-width: 5px;
+    /* display:inline-flex; */
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+.stydivl{
+    height:95px;
+    width:100px;
+    border:2px solid green; 
+    background-color: lawngreen;
+    position:sticky;
+    left:0px;
+}
+.stydivr{
+    height:95px;
+    width:100px;
+    border:2px solid green;
+    background-color: lawngreen;
+    position:sticky;
+    right:0px;
+}
+.bdiv{
+    height:95px;
+    width:100px;
+    border:2px solid blue;
+    background-color: deepskyblue;
+    /* display: inline; */
+}
+
